@@ -1,5 +1,4 @@
 # Side-Scan Sonar Data Processing using Jupyter Notebooks and python-sllib
-## Code for the paper: Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection
 
 Environment to test, visualize, and process Lowrance plotter/sounder data.
 All with the help of https://github.com/opensounder/python-sllib 
